@@ -1,0 +1,34 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Historical Income Panel for the Netherlands (HIP-NL)'
+
+theme = "gokarna"
+
+[params]
+    description = "A unique large-scale historical income panel for the Netherlands, 1850–1922"
+    avatarURL = "/images/hipnl-logo-round.png"
+    avatarSize = "size-m"
+
+[menu]
+    [[menu.main]]
+        identifier = "project"
+        name = "project"
+        url = "/project"
+        weight = 1
+    
+    [[menu.main]]
+        identifier = "team"
+        name = "team"
+        url = "/team"
+        weight = 2
+    
+    [[menu.main]]
+        identifier = "news"
+        name = "news"
+        url = "/news/"
+        weight = 3
+    [[menu.main]]
+        identifier = "github"
+        pre = "<span data-feather='github'></span>"
+        url = "https://github.com/HIP-NL"
+        weight = 4
