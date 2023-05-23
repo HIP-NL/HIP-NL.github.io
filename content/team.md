@@ -7,4 +7,4 @@ type: "page"
 * [Auke Rijpma](https://aukerijpma.nl)
 * [Paul Puschmann](https://www.ru.nl/en/people/puschmann-p)
 * Eva van der Heijden
-* Rick Schouten
+* [Rick Schouten](https://www.uu.nl/medewerkers/HJSchouten)
