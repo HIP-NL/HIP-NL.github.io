@@ -1,6 +1,6 @@
 baseURL = 'https://hip-nl.github.io/'
 languageCode = 'en-us'
-title = 'Historical Income Panel for the Netherlands (HIP-NL)'
+title = 'Historical Income Panel for the Netherlands'
 
 theme = "gokarna"
 
