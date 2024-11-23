@@ -1,2 +1,2239 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Historical Income Panel for the Netherlands</title><link>https://hip-nl.github.io/</link><description>Recent content on Historical Income Panel for the Netherlands</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 30 Aug 2024 10:55:55 +0100</lastBuildDate><atom:link href="https://hip-nl.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Presentations in 2023/2024</title><link>https://hip-nl.github.io/news/presentations/</link><pubDate>Fri, 30 Aug 2024 10:55:55 +0100</pubDate><guid>https://hip-nl.github.io/news/presentations/</guid><description>Some recent presentations by the HIP-NL project:
-2024 EHS annual conference SSHA 2023 EHES 2023 A slidedeck presenting the state of the project and inequality trends in the Netherlands can be found here</description></item><item><title>HIP-NL at the 2023 Posthumus conference</title><link>https://hip-nl.github.io/news/posthumus2023/</link><pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate><guid>https://hip-nl.github.io/news/posthumus2023/</guid><description>Eva will present about the HIP-NL project at the Posthumus Conference. We&amp;rsquo;re in the session on Fiscal sources for the study of inequality on Wednesday the 24th, 1500.</description></item><item><title>Team</title><link>https://hip-nl.github.io/team/</link><pubDate>Sun, 26 Feb 2023 01:15:38 +0100</pubDate><guid>https://hip-nl.github.io/team/</guid><description> Auke Rijpma Paul Puschmann Eva van der Heijden Rick Schouten</description></item><item><title>The HIP-NL project</title><link>https://hip-nl.github.io/project/</link><pubDate>Sat, 25 Feb 2023 23:55:55 +0100</pubDate><guid>https://hip-nl.github.io/project/</guid><description>The Historical Income Panel for the Netherlands project (HIP-NL) is creating a unique large-scale historical income panel. Using municipal tax records income estimates at 10-year intervals will be gathered for c. 200,000 individuals in the Netherlands between 1851 and 1922. Recent mass digitisation of vital records and population registers, as well as the development of data integration tools means we will be able to connect the income panel to many other important economic and social history datasets, and answer questions about social and economic inequality over a long time frame, across multiple dimensions, and over multiple generations.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Historical Income Panel for the Netherlands</title><link>https://hip-nl.github.io/</link><description>Recent content on Historical Income Panel for the Netherlands</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 30 Aug 2024 10:55:55 +0100</lastBuildDate><atom:link href="https://hip-nl.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Presentations in 2023/2024</title><link>https://hip-nl.github.io/news/presentations/</link><pubDate>Fri, 30 Aug 2024 10:55:55 +0100</pubDate><guid>https://hip-nl.github.io/news/presentations/</guid><description>&lt;p>Some recent presentations by the HIP-NL project:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://ehs.org.uk/society/resources/ehs-annual-conference-archive/2024-ehs-annual-conference/">2024 EHS annual conference&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ssha2023.ssha.org">SSHA 2023&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ehes.org/congresses/">EHES 2023&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>A slidedeck presenting the state of the project and inequality trends in the Netherlands can be found &lt;a href="https://hip-nl.github.io/pres/ineqpres.pdf">here&lt;/a>&lt;/p></description></item><item><title>The sample</title><link>https://hip-nl.github.io/sample/</link><pubDate>Mon, 11 Dec 2023 23:55:55 +0100</pubDate><guid>https://hip-nl.github.io/sample/</guid><description>&lt;p>The project samples a number of municipalities. The reason for this that reason is that we want to be able to infer incomes for the missing population, which is only possible if we have the entire taxed population for a given municipality.&lt;/p>
+&lt;p>&lt;img src="../images/currentsample.png" alt="">&lt;/p>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">province&lt;/th>
+ &lt;th style="text-align: left">municipality&lt;/th>
+ &lt;th style="text-align: right">dec&lt;/th>
+ &lt;th style="text-align: right">N&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Anloo&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">863&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Anloo&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">971&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Borger&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">559&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Borger&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">700&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Borger&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">1090&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Borger&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">1001&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Borger&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">1413&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Borger&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">1821&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Diever&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">232&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Diever&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">226&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Diever&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">351&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Diever&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">299&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Diever&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">430&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Diever&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">391&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Diever&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">538&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Dwingeloo&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">207&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Dwingeloo&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">322&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Dwingeloo&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">382&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Dwingeloo&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">450&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Dwingeloo&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">588&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Roden&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">243&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Roden&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">248&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Roden&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">247&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Roden&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">317&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Roden&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">362&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Roden&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">430&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Roden&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">848&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Ruinerwold&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">512&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Ruinerwold&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">558&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Zuidwolde&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">395&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Zuidwolde&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">389&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Zuidwolde&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">465&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Zuidwolde&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">661&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Zuidwolde&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">1133&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Zuidwolde&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">705&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Drenthe&lt;/td>
+ &lt;td style="text-align: left">Zuidwolde&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">927&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Friesland&lt;/td>
+ &lt;td style="text-align: left">Harlingen&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">545&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Friesland&lt;/td>
+ &lt;td style="text-align: left">Harlingen&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">566&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Friesland&lt;/td>
+ &lt;td style="text-align: left">Harlingen&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">36&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Friesland&lt;/td>
+ &lt;td style="text-align: left">Harlingen&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">969&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Friesland&lt;/td>
+ &lt;td style="text-align: left">Harlingen&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">1316&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Friesland&lt;/td>
+ &lt;td style="text-align: left">Harlingen&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">1864&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Friesland&lt;/td>
+ &lt;td style="text-align: left">Hindeloopen&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">136&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Friesland&lt;/td>
+ &lt;td style="text-align: left">Hindeloopen&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">98&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Friesland&lt;/td>
+ &lt;td style="text-align: left">Hindeloopen&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">112&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Friesland&lt;/td>
+ &lt;td style="text-align: left">Hindeloopen&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">123&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Friesland&lt;/td>
+ &lt;td style="text-align: left">Hindeloopen&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">145&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Friesland&lt;/td>
+ &lt;td style="text-align: left">Rauwerderhem&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">365&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Friesland&lt;/td>
+ &lt;td style="text-align: left">Rauwerderhem&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">383&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Friesland&lt;/td>
+ &lt;td style="text-align: left">Rauwerderhem&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">341&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Friesland&lt;/td>
+ &lt;td style="text-align: left">Rauwerderhem&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">535&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Friesland&lt;/td>
+ &lt;td style="text-align: left">Rauwerderhem&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">744&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Beesd&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">232&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Beesd&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">245&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Beesd&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">252&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Beesd&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">319&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Beesd&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">385&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Beesd&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">678&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Borculo&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">300&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Borculo&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">687&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Borculo&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">775&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Borculo&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">880&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Borculo&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">1218&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Brummen&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">1089&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Doesburg&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">539&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Doesburg&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">563&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Doesburg&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">531&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Doesburg&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">493&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Doesburg&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">1244&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Gorssel&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">816&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Hattem&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">350&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Hattem&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">472&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Hattem&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">1255&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Lochem&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">399&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Lochem&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">553&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Lochem&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">664&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Lochem&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">1081&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Lochem&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">1850&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Nijmegen&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">2975&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Nijmegen&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">4227&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Nijmegen&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">5682&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Varik&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">149&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Varik&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">148&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Varik&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">140&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Varik&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">141&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Varik&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">127&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Varik&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">206&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Varik&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">192&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Gelderland&lt;/td>
+ &lt;td style="text-align: left">Warnsveld&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">488&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Baexem&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">256&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Baexem&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">167&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Beek (L.)&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">300&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Beek (L.)&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">245&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Beek (L.)&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">328&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Beek (L.)&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">393&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Beek (L.)&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">413&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Beek (L.)&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">575&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Beek (L.)&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">909&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Berg en Terblijt&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">135&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Berg en Terblijt&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">155&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Berg en Terblijt&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">434&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Maasniel&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">276&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Maasniel&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">521&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Maasniel&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">693&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Meerlo&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">113&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Meerlo&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">195&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Meerlo&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">112&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Meerlo&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">400&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Schinnen&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">311&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Schinnen&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">301&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Schinnen&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">350&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Schinnen&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">509&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Schinnen&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">805&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Swalmen&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">418&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Swalmen&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">502&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Swalmen&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">606&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Swalmen&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">868&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Vaals&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">353&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Vaals&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">488&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Vaals&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">805&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Vaals&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">975&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Vaals&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">1346&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Vaals&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">1587&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Vaals&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">2420&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Weert&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">1161&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Weert&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">1399&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Limburg&lt;/td>
+ &lt;td style="text-align: left">Weert&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">2314&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Bladel en Netersel&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">224&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Bladel en Netersel&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">232&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Bladel en Netersel&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">225&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Bladel en Netersel&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">230&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Bladel en Netersel&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">211&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Bladel en Netersel&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">253&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Bladel en Netersel&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">319&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Eindhoven&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">348&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Eindhoven&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">507&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Eindhoven&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">438&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Eindhoven&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">380&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Eindhoven&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">429&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Eindhoven&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">992&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Eindhoven&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">2171&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Geldrop&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">290&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Geldrop&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">375&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Geldrop&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">345&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Geldrop&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">297&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Geldrop&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">266&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Geldrop&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">379&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Geldrop&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">542&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Helvoirt&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">199&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Helvoirt&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">233&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Helvoirt&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">228&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Helvoirt&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">218&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Helvoirt&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">225&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Helvoirt&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">334&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Hilvarenbeek&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">342&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Hilvarenbeek&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">333&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Hilvarenbeek&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">342&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Hilvarenbeek&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">418&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Hilvarenbeek&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">490&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Hilvarenbeek&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">718&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Leende&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">333&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Leende&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">292&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Leende&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">307&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Leende&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">289&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Leende&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">258&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Leende&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">291&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Leende&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">381&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Maarheeze&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">115&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Maarheeze&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">113&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Maarheeze&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">128&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Maarheeze&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">124&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Maarheeze&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">112&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Maarheeze&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">115&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Maarheeze&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">149&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Made en Drimmelen&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">268&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Made en Drimmelen&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">339&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Made en Drimmelen&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">337&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Made en Drimmelen&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">612&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Made en Drimmelen&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">552&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Made en Drimmelen&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">632&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Made en Drimmelen&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">982&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Riethoven&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">121&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Riethoven&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">148&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Riethoven&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">102&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Riethoven&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">98&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Riethoven&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">96&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Riethoven&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">94&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Riethoven&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">116&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Uden&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">630&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Uden&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">639&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Uden&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">693&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Uden&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">644&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Uden&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">701&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Uden&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">779&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Uden&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">1121&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Vessem, Wintelre en Knegsel&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">193&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Vessem, Wintelre en Knegsel&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">199&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Vessem, Wintelre en Knegsel&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">192&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Vessem, Wintelre en Knegsel&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">175&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Vessem, Wintelre en Knegsel&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">245&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Waalwijk&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">240&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Waalwijk&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">287&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Waalwijk&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">382&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Waalwijk&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">385&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Waalwijk&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">431&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Waalwijk&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">430&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Brabant&lt;/td>
+ &lt;td style="text-align: left">Waalwijk&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">1713&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Edam&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">741&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Edam&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">785&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Edam&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">965&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Edam&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">1428&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Edam&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">1413&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Edam&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">1740&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Edam&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">2234&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Graft&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">294&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Graft&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">308&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Graft&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">358&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Graft&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">354&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Graft&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">337&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Landsmeer&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">485&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Landsmeer&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">881&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Nibbixwoud&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">106&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Nibbixwoud&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">120&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Nibbixwoud&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">133&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Nibbixwoud&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">148&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Nibbixwoud&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">157&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Twisk&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">82&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Twisk&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">94&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Twisk&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">89&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Twisk&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">127&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Twisk&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">139&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Twisk&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">199&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Twisk&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">269&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Zaandijk&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">189&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Zaandijk&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">227&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Zaandijk&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">302&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Zaandijk&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">359&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Zaandijk&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">579&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Zaandijk&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">1191&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Zuid-Scharwoude&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">109&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Zuid-Scharwoude&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">108&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Zuid-Scharwoude&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">160&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Zuid-Scharwoude&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">197&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Zuid-Scharwoude&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">197&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Noord-Holland&lt;/td>
+ &lt;td style="text-align: left">Zuid-Scharwoude&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">229&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Abcoude-Baambrugge&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">163&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Abcoude-Baambrugge&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">177&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Abcoude-Baambrugge&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">189&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Abcoude-Baambrugge&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">224&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Abcoude-Baambrugge&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">225&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Abcoude-Baambrugge&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">272&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Abcoude-Baambrugge&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">416&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Abcoude-Proosdij&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">168&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Abcoude-Proosdij&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">187&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Abcoude-Proosdij&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">208&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Abcoude-Proosdij&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">212&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Abcoude-Proosdij&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">240&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Abcoude-Proosdij&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">441&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Amersfoort&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">2053&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Amersfoort&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">2035&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Amersfoort&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">7545&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Bunnik&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">77&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Bunnik&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">155&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Bunnik&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">98&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Bunnik&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">102&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Bunnik&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">136&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Bunnik&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">173&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Bunnik&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">356&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Cothen&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">58&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Cothen&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">60&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Cothen&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">58&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Cothen&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">77&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Cothen&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">95&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Cothen&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">118&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Loenen&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">139&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Loenen&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">144&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Loenen&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">166&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Loenen&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">202&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Loenen&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">396&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Mijdrecht&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">588&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Mijdrecht&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">753&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Mijdrecht&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">696&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Mijdrecht&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">348&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Mijdrecht&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">1003&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">1213&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">8210&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">21158&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Vinkeveen en Waverveen&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">215&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Vinkeveen en Waverveen&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">235&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Vinkeveen en Waverveen&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">369&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Vinkeveen en Waverveen&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">369&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Vinkeveen en Waverveen&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">512&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Vinkeveen en Waverveen&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">541&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Vinkeveen en Waverveen&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">823&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Vreeland&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">109&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Vreeland&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">141&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Vreeland&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">137&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Vreeland&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">124&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Vreeland&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">205&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Wilnis&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">309&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Wilnis&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">340&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Wilnis&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">440&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Wilnis&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">301&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Wilnis&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">251&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Wilnis&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">276&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Utrecht&lt;/td>
+ &lt;td style="text-align: left">Wilnis&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">1036&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Aardenburg&lt;/td>
+ &lt;td style="text-align: right">1850&lt;/td>
+ &lt;td style="text-align: right">211&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Aardenburg&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">169&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Aardenburg&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">370&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Aardenburg&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">507&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Brouwershaven&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">212&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Brouwershaven&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">180&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Brouwershaven&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">181&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Brouwershaven&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">161&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Brouwershaven&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">206&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Brouwershaven&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">290&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Brouwershaven&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">370&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Hulst&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">275&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Hulst&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">206&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Hulst&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">249&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Hulst&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">386&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Hulst&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">601&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Hulst&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">440&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Philippine&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">140&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Philippine&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">154&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Philippine&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">169&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Philippine&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">265&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Zierikzee&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">842&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Zierikzee&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">632&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Zierikzee&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">871&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Zierikzee&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">925&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Zierikzee&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">989&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Zierikzee&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">1067&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zeeland&lt;/td>
+ &lt;td style="text-align: left">Zierikzee&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">1783&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Alkemade&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">287&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Alkemade&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">272&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Alkemade&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">375&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Alkemade&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">403&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Alkemade&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">502&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Alkemade&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">628&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Alkemade&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">2186&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Alphen&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">271&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Bergambacht&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">206&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Bergambacht&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">222&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Bergambacht&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">372&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Bergambacht&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">438&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Leiden&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">5603&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Nieuwveen&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">138&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Nieuwveen&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">152&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Nieuwveen&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">216&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Noordwijk&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">303&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Noordwijk&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">294&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Noordwijk&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">320&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Noordwijk&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">386&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Noordwijk&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">424&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Noordwijk&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">695&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Noordwijk&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">1774&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Papendrecht&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">229&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Papendrecht&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">174&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Papendrecht&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">230&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Papendrecht&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">313&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Papendrecht&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">301&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Papendrecht&lt;/td>
+ &lt;td style="text-align: right">1910&lt;/td>
+ &lt;td style="text-align: right">763&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Woubrugge&lt;/td>
+ &lt;td style="text-align: right">1860&lt;/td>
+ &lt;td style="text-align: right">217&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Woubrugge&lt;/td>
+ &lt;td style="text-align: right">1870&lt;/td>
+ &lt;td style="text-align: right">214&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Woubrugge&lt;/td>
+ &lt;td style="text-align: right">1880&lt;/td>
+ &lt;td style="text-align: right">235&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Woubrugge&lt;/td>
+ &lt;td style="text-align: right">1890&lt;/td>
+ &lt;td style="text-align: right">276&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Woubrugge&lt;/td>
+ &lt;td style="text-align: right">1900&lt;/td>
+ &lt;td style="text-align: right">266&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Zuid-Holland&lt;/td>
+ &lt;td style="text-align: left">Woubrugge&lt;/td>
+ &lt;td style="text-align: right">1920&lt;/td>
+ &lt;td style="text-align: right">512&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>HIP-NL at the 2023 Posthumus conference</title><link>https://hip-nl.github.io/news/posthumus2023/</link><pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate><guid>https://hip-nl.github.io/news/posthumus2023/</guid><description>&lt;p>Eva will present about the HIP-NL project at the &lt;a href="https://posthumusconference.org">Posthumus Conference&lt;/a>. We&amp;rsquo;re in the &lt;a href="https://posthumusconference.org/netwerk-sessions-24-may/">session on Fiscal sources for the study of inequality&lt;/a> on Wednesday the 24th, 1500.&lt;/p></description></item><item><title>Team</title><link>https://hip-nl.github.io/team/</link><pubDate>Sun, 26 Feb 2023 01:15:38 +0100</pubDate><guid>https://hip-nl.github.io/team/</guid><description>&lt;ul>
+&lt;li>&lt;a href="https://aukerijpma.nl">Auke Rijpma&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.ru.nl/en/people/puschmann-p">Paul Puschmann&lt;/a>&lt;/li>
+&lt;li>Eva van der Heijden&lt;/li>
+&lt;li>&lt;a href="https://www.uu.nl/medewerkers/HJSchouten">Rick Schouten&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>The HIP-NL project</title><link>https://hip-nl.github.io/project/</link><pubDate>Sat, 25 Feb 2023 23:55:55 +0100</pubDate><guid>https://hip-nl.github.io/project/</guid><description>&lt;p>The Historical Income Panel for the Netherlands project (HIP-NL) is creating a unique large-scale historical income panel. Using municipal tax records income estimates at 10-year intervals will be gathered for c. 200,000 individuals in the Netherlands between 1851 and 1922. Recent mass digitisation of vital records and population registers, as well as the development of data integration tools means we will be able to connect the income panel to many other important economic and social history datasets, and answer questions about social and economic inequality over a long time frame, across multiple dimensions, and over multiple generations.&lt;/p></description></item></channel></rss>
