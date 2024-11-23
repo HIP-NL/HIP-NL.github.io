@@ -21,6 +21,11 @@ theme = "gokarna"
         name = "team"
         url = "/team"
         weight = 2
+    [[menu.main]]
+        identifier = "sample"
+        name = "sample"
+        url = "/sample"
+        weight = 2
     
     [[menu.main]]
         identifier = "news"
