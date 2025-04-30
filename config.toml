@@ -26,7 +26,16 @@ theme = "gokarna"
         name = "sample"
         url = "/sample"
         weight = 2
-    
+    [[menu.main]]
+        identifier = "data"
+        name = "data"
+        url = "/data"
+        weight = 2
+    [[menu.main]]
+        identifier = "papers"
+        name = "papers"
+        url = "/papers/"
+        weight = 3
     [[menu.main]]
         identifier = "news"
         name = "news"
