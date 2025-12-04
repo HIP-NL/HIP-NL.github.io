@@ -6,7 +6,7 @@ type: "page"
 
 The project samples a number of municipalities. The reason for this that reason is that we want to be able to infer incomes for the missing population, which is only possible if we have the entire taxed population for a given municipality. 
 
-![](../images/currentsample.png)
+![Municipalities in the sample, scaled by number of observations over the entire 1850–1920 period](/images/currentsample.png)
 
 |province      |municipality                |  dec|     N|
 |:-------------|:---------------------------|----:|-----:|
@@ -46,10 +46,14 @@ The project samples a number of municipalities. The reason for this that reason 
 |Drenthe       |Zuidwolde                   | 1900|  1133|
 |Drenthe       |Zuidwolde                   | 1910|   705|
 |Drenthe       |Zuidwolde                   | 1920|   927|
+|Friesland     |Doniawerstal                | 1860|   507|
+|Friesland     |Doniawerstal                | 1870|   761|
+|Friesland     |Doniawerstal                | 1880|   888|
+|Friesland     |Doniawerstal                | 1900|   843|
 |Friesland     |Harlingen                   | 1860|   545|
-|Friesland     |Harlingen                   | 1870|   566|
-|Friesland     |Harlingen                   | 1880|    36|
-|Friesland     |Harlingen                   | 1890|   969|
+|Friesland     |Harlingen                   | 1870|   572|
+|Friesland     |Harlingen                   | 1880|    37|
+|Friesland     |Harlingen                   | 1890|   978|
 |Friesland     |Harlingen                   | 1910|  1316|
 |Friesland     |Harlingen                   | 1920|  1864|
 |Friesland     |Hindeloopen                 | 1860|   136|
@@ -57,17 +61,32 @@ The project samples a number of municipalities. The reason for this that reason 
 |Friesland     |Hindeloopen                 | 1880|   112|
 |Friesland     |Hindeloopen                 | 1890|   123|
 |Friesland     |Hindeloopen                 | 1900|   145|
+|Friesland     |Hindeloopen                 | 1910|   148|
+|Friesland     |Hindeloopen                 | 1920|   272|
 |Friesland     |Rauwerderhem                | 1860|   365|
 |Friesland     |Rauwerderhem                | 1870|   383|
+|Friesland     |Rauwerderhem                | 1880|   314|
 |Friesland     |Rauwerderhem                | 1900|   341|
 |Friesland     |Rauwerderhem                | 1910|   535|
 |Friesland     |Rauwerderhem                | 1920|   744|
+|Friesland     |Vlieland                    | 1860|    99|
+|Friesland     |Vlieland                    | 1870|   117|
+|Friesland     |Vlieland                    | 1880|   109|
+|Friesland     |Vlieland                    | 1890|   126|
+|Friesland     |Vlieland                    | 1900|   126|
+|Friesland     |Vlieland                    | 1910|   163|
+|Friesland     |Vlieland                    | 1920|   157|
+|Friesland     |het Bildt                   | 1870|   578|
+|Friesland     |het Bildt                   | 1880|   572|
+|Friesland     |het Bildt                   | 1890|   552|
+|Friesland     |het Bildt                   | 1900|   599|
+|Friesland     |het Bildt                   | 1920|  2256|
 |Gelderland    |Beesd                       | 1870|   232|
 |Gelderland    |Beesd                       | 1880|   245|
 |Gelderland    |Beesd                       | 1890|   252|
 |Gelderland    |Beesd                       | 1900|   319|
 |Gelderland    |Beesd                       | 1910|   385|
-|Gelderland    |Beesd                       | 1920|   678|
+|Gelderland    |Beesd                       | 1920|   679|
 |Gelderland    |Borculo                     | 1870|   300|
 |Gelderland    |Borculo                     | 1880|   687|
 |Gelderland    |Borculo                     | 1890|   775|
@@ -82,7 +101,7 @@ The project samples a number of municipalities. The reason for this that reason 
 |Gelderland    |Gorssel                     | 1880|   816|
 |Gelderland    |Hattem                      | 1890|   350|
 |Gelderland    |Hattem                      | 1910|   472|
-|Gelderland    |Hattem                      | 1920|  1255|
+|Gelderland    |Hattem                      | 1920|  1262|
 |Gelderland    |Lochem                      | 1870|   399|
 |Gelderland    |Lochem                      | 1890|   553|
 |Gelderland    |Lochem                      | 1900|   664|
@@ -91,12 +110,13 @@ The project samples a number of municipalities. The reason for this that reason 
 |Gelderland    |Nijmegen                    | 1890|  2975|
 |Gelderland    |Nijmegen                    | 1900|  4227|
 |Gelderland    |Nijmegen                    | 1910|  5682|
+|Gelderland    |Nijmegen                    | 1920| 12327|
 |Gelderland    |Varik                       | 1860|   149|
 |Gelderland    |Varik                       | 1870|   148|
 |Gelderland    |Varik                       | 1880|   140|
-|Gelderland    |Varik                       | 1890|   141|
-|Gelderland    |Varik                       | 1900|   127|
-|Gelderland    |Varik                       | 1910|   206|
+|Gelderland    |Varik                       | 1890|   143|
+|Gelderland    |Varik                       | 1900|   128|
+|Gelderland    |Varik                       | 1910|   213|
 |Gelderland    |Varik                       | 1920|   192|
 |Gelderland    |Warnsveld                   | 1880|   488|
 |Limburg       |Baexem                      | 1910|   256|
@@ -110,13 +130,13 @@ The project samples a number of municipalities. The reason for this that reason 
 |Limburg       |Beek (L.)                   | 1920|   909|
 |Limburg       |Berg en Terblijt            | 1900|   135|
 |Limburg       |Berg en Terblijt            | 1910|   155|
-|Limburg       |Berg en Terblijt            | 1920|   434|
+|Limburg       |Berg en Terblijt            | 1920|   436|
 |Limburg       |Maasniel                    | 1860|   276|
 |Limburg       |Maasniel                    | 1910|   521|
 |Limburg       |Maasniel                    | 1920|   693|
 |Limburg       |Meerlo                      | 1890|   113|
 |Limburg       |Meerlo                      | 1900|   195|
-|Limburg       |Meerlo                      | 1910|   112|
+|Limburg       |Meerlo                      | 1910|   207|
 |Limburg       |Meerlo                      | 1920|   400|
 |Limburg       |Schinnen                    | 1880|   311|
 |Limburg       |Schinnen                    | 1890|   301|
@@ -130,16 +150,16 @@ The project samples a number of municipalities. The reason for this that reason 
 |Limburg       |Vaals                       | 1860|   353|
 |Limburg       |Vaals                       | 1870|   488|
 |Limburg       |Vaals                       | 1880|   805|
-|Limburg       |Vaals                       | 1890|   975|
+|Limburg       |Vaals                       | 1890|  1004|
 |Limburg       |Vaals                       | 1900|  1346|
-|Limburg       |Vaals                       | 1910|  1587|
+|Limburg       |Vaals                       | 1910|  1611|
 |Limburg       |Vaals                       | 1920|  2420|
 |Limburg       |Weert                       | 1900|  1161|
 |Limburg       |Weert                       | 1910|  1399|
 |Limburg       |Weert                       | 1920|  2314|
 |Noord-Brabant |Bladel en Netersel          | 1860|   224|
 |Noord-Brabant |Bladel en Netersel          | 1870|   232|
-|Noord-Brabant |Bladel en Netersel          | 1880|   225|
+|Noord-Brabant |Bladel en Netersel          | 1880|   230|
 |Noord-Brabant |Bladel en Netersel          | 1890|   230|
 |Noord-Brabant |Bladel en Netersel          | 1900|   211|
 |Noord-Brabant |Bladel en Netersel          | 1910|   253|
@@ -147,13 +167,13 @@ The project samples a number of municipalities. The reason for this that reason 
 |Noord-Brabant |Eindhoven                   | 1860|   348|
 |Noord-Brabant |Eindhoven                   | 1870|   507|
 |Noord-Brabant |Eindhoven                   | 1880|   438|
-|Noord-Brabant |Eindhoven                   | 1890|   380|
+|Noord-Brabant |Eindhoven                   | 1890|   392|
 |Noord-Brabant |Eindhoven                   | 1900|   429|
 |Noord-Brabant |Eindhoven                   | 1910|   992|
 |Noord-Brabant |Eindhoven                   | 1920|  2171|
 |Noord-Brabant |Geldrop                     | 1860|   290|
 |Noord-Brabant |Geldrop                     | 1870|   375|
-|Noord-Brabant |Geldrop                     | 1880|   345|
+|Noord-Brabant |Geldrop                     | 1880|   353|
 |Noord-Brabant |Geldrop                     | 1890|   297|
 |Noord-Brabant |Geldrop                     | 1900|   266|
 |Noord-Brabant |Geldrop                     | 1910|   379|
@@ -191,6 +211,9 @@ The project samples a number of municipalities. The reason for this that reason 
 |Noord-Brabant |Made en Drimmelen           | 1900|   552|
 |Noord-Brabant |Made en Drimmelen           | 1910|   632|
 |Noord-Brabant |Made en Drimmelen           | 1920|   982|
+|Noord-Brabant |Raamsdonk                   | 1860|   311|
+|Noord-Brabant |Raamsdonk                   | 1870|   301|
+|Noord-Brabant |Raamsdonk                   | 1880|   257|
 |Noord-Brabant |Riethoven                   | 1860|   121|
 |Noord-Brabant |Riethoven                   | 1870|   148|
 |Noord-Brabant |Riethoven                   | 1880|   102|
@@ -214,9 +237,9 @@ The project samples a number of municipalities. The reason for this that reason 
 |Noord-Brabant |Waalwijk                    | 1870|   287|
 |Noord-Brabant |Waalwijk                    | 1880|   382|
 |Noord-Brabant |Waalwijk                    | 1890|   385|
-|Noord-Brabant |Waalwijk                    | 1900|   431|
-|Noord-Brabant |Waalwijk                    | 1910|   430|
-|Noord-Brabant |Waalwijk                    | 1920|  1713|
+|Noord-Brabant |Waalwijk                    | 1900|   432|
+|Noord-Brabant |Waalwijk                    | 1910|   431|
+|Noord-Brabant |Waalwijk                    | 1920|  1722|
 |Noord-Holland |Edam                        | 1860|   741|
 |Noord-Holland |Edam                        | 1870|   785|
 |Noord-Holland |Edam                        | 1880|   965|
@@ -246,15 +269,19 @@ The project samples a number of municipalities. The reason for this that reason 
 |Noord-Holland |Zaandijk                    | 1860|   189|
 |Noord-Holland |Zaandijk                    | 1870|   227|
 |Noord-Holland |Zaandijk                    | 1880|   302|
-|Noord-Holland |Zaandijk                    | 1890|   359|
+|Noord-Holland |Zaandijk                    | 1890|   361|
 |Noord-Holland |Zaandijk                    | 1910|   579|
 |Noord-Holland |Zaandijk                    | 1920|  1191|
-|Noord-Holland |Zuid-Scharwoude             | 1860|   109|
-|Noord-Holland |Zuid-Scharwoude             | 1870|   108|
+|Noord-Holland |Zuid-Scharwoude             | 1860|   110|
+|Noord-Holland |Zuid-Scharwoude             | 1870|   109|
 |Noord-Holland |Zuid-Scharwoude             | 1880|   160|
 |Noord-Holland |Zuid-Scharwoude             | 1890|   197|
 |Noord-Holland |Zuid-Scharwoude             | 1900|   197|
 |Noord-Holland |Zuid-Scharwoude             | 1910|   229|
+|Overijssel    |Enschede                    | 1880|   624|
+|Overijssel    |Enschede                    | 1890|  1679|
+|Overijssel    |Enschede                    | 1900|  2046|
+|Overijssel    |Enschede                    | 1920|  4386|
 |Utrecht       |Abcoude-Baambrugge          | 1860|   163|
 |Utrecht       |Abcoude-Baambrugge          | 1870|   177|
 |Utrecht       |Abcoude-Baambrugge          | 1880|   189|
@@ -262,20 +289,20 @@ The project samples a number of municipalities. The reason for this that reason 
 |Utrecht       |Abcoude-Baambrugge          | 1900|   225|
 |Utrecht       |Abcoude-Baambrugge          | 1910|   272|
 |Utrecht       |Abcoude-Baambrugge          | 1920|   416|
-|Utrecht       |Abcoude-Proosdij            | 1870|   168|
+|Utrecht       |Abcoude-Proosdij            | 1870|   308|
 |Utrecht       |Abcoude-Proosdij            | 1880|   187|
 |Utrecht       |Abcoude-Proosdij            | 1890|   208|
 |Utrecht       |Abcoude-Proosdij            | 1900|   212|
 |Utrecht       |Abcoude-Proosdij            | 1910|   240|
 |Utrecht       |Abcoude-Proosdij            | 1920|   441|
-|Utrecht       |Amersfoort                  | 1900|  2053|
-|Utrecht       |Amersfoort                  | 1910|  2035|
+|Utrecht       |Amersfoort                  | 1900|  2054|
+|Utrecht       |Amersfoort                  | 1910|  2055|
 |Utrecht       |Amersfoort                  | 1920|  7545|
 |Utrecht       |Bunnik                      | 1860|    77|
 |Utrecht       |Bunnik                      | 1870|   155|
 |Utrecht       |Bunnik                      | 1880|    98|
 |Utrecht       |Bunnik                      | 1890|   102|
-|Utrecht       |Bunnik                      | 1900|   136|
+|Utrecht       |Bunnik                      | 1900|   255|
 |Utrecht       |Bunnik                      | 1910|   173|
 |Utrecht       |Bunnik                      | 1920|   356|
 |Utrecht       |Cothen                      | 1860|    58|
@@ -294,16 +321,19 @@ The project samples a number of municipalities. The reason for this that reason 
 |Utrecht       |Mijdrecht                   | 1890|   696|
 |Utrecht       |Mijdrecht                   | 1900|   348|
 |Utrecht       |Mijdrecht                   | 1920|  1003|
-|Utrecht       |Utrecht                     | 1880|  1213|
-|Utrecht       |Utrecht                     | 1890|  8210|
-|Utrecht       |Utrecht                     | 1910| 21158|
-|Utrecht       |Vinkeveen en Waverveen      | 1860|   215|
+|Utrecht       |Utrecht                     | 1870|  5574|
+|Utrecht       |Utrecht                     | 1880|  7186|
+|Utrecht       |Utrecht                     | 1890|  8523|
+|Utrecht       |Utrecht                     | 1900| 10659|
+|Utrecht       |Utrecht                     | 1910| 21254|
+|Utrecht       |Utrecht                     | 1920| 32038|
+|Utrecht       |Vinkeveen en Waverveen      | 1860|   238|
 |Utrecht       |Vinkeveen en Waverveen      | 1870|   235|
-|Utrecht       |Vinkeveen en Waverveen      | 1880|   369|
-|Utrecht       |Vinkeveen en Waverveen      | 1890|   369|
+|Utrecht       |Vinkeveen en Waverveen      | 1880|   401|
+|Utrecht       |Vinkeveen en Waverveen      | 1890|   401|
 |Utrecht       |Vinkeveen en Waverveen      | 1900|   512|
 |Utrecht       |Vinkeveen en Waverveen      | 1910|   541|
-|Utrecht       |Vinkeveen en Waverveen      | 1920|   823|
+|Utrecht       |Vinkeveen en Waverveen      | 1920|   824|
 |Utrecht       |Vreeland                    | 1880|   109|
 |Utrecht       |Vreeland                    | 1890|   141|
 |Utrecht       |Vreeland                    | 1900|   137|
@@ -327,16 +357,29 @@ The project samples a number of municipalities. The reason for this that reason 
 |Zeeland       |Brouwershaven               | 1900|   206|
 |Zeeland       |Brouwershaven               | 1910|   290|
 |Zeeland       |Brouwershaven               | 1920|   370|
+|Zeeland       |Haamstede                   | 1860|    80|
+|Zeeland       |Haamstede                   | 1870|    81|
+|Zeeland       |Haamstede                   | 1880|    91|
+|Zeeland       |Haamstede                   | 1890|   101|
+|Zeeland       |Haamstede                   | 1900|   113|
+|Zeeland       |Haamstede                   | 1910|   135|
+|Zeeland       |Haamstede                   | 1920|   193|
 |Zeeland       |Hulst                       | 1860|   275|
 |Zeeland       |Hulst                       | 1870|   206|
 |Zeeland       |Hulst                       | 1880|   249|
 |Zeeland       |Hulst                       | 1900|   386|
 |Zeeland       |Hulst                       | 1910|   601|
 |Zeeland       |Hulst                       | 1920|   440|
+|Zeeland       |Philippine                  | 1860|    89|
+|Zeeland       |Philippine                  | 1870|   125|
+|Zeeland       |Philippine                  | 1880|   144|
 |Zeeland       |Philippine                  | 1890|   140|
 |Zeeland       |Philippine                  | 1900|   154|
 |Zeeland       |Philippine                  | 1910|   169|
 |Zeeland       |Philippine                  | 1920|   265|
+|Zeeland       |Zaamslag                    | 1900|   400|
+|Zeeland       |Zaamslag                    | 1910|   875|
+|Zeeland       |Zaamslag                    | 1920|   792|
 |Zeeland       |Zierikzee                   | 1860|   842|
 |Zeeland       |Zierikzee                   | 1870|   632|
 |Zeeland       |Zierikzee                   | 1880|   871|
@@ -356,7 +399,11 @@ The project samples a number of municipalities. The reason for this that reason 
 |Zuid-Holland  |Bergambacht                 | 1880|   222|
 |Zuid-Holland  |Bergambacht                 | 1900|   372|
 |Zuid-Holland  |Bergambacht                 | 1910|   438|
-|Zuid-Holland  |Leiden                      | 1890|  5603|
+|Zuid-Holland  |Leiden                      | 1880|  5058|
+|Zuid-Holland  |Leiden                      | 1890|  5595|
+|Zuid-Holland  |Leiden                      | 1900|  7669|
+|Zuid-Holland  |Leiden                      | 1910|  8061|
+|Zuid-Holland  |Leiden                      | 1920| 14694|
 |Zuid-Holland  |Nieuwveen                   | 1900|   138|
 |Zuid-Holland  |Nieuwveen                   | 1910|   152|
 |Zuid-Holland  |Nieuwveen                   | 1920|   216|
