@@ -4,7 +4,7 @@ date: "2023-12-11T23:55:55+01:00"
 type: "page"
 ---
 
-The project samples a number of municipalities. The reason for this that reason is that we want to be able to infer incomes for the missing population, which is only possible if we have the entire taxed population for a given municipality. 
+The HIP-NL data is a sample of 79 municipalities over the c. 1860--1920 period. We sample municipalities because we need to be able to infer incomes for the missing population, which is only possible if we have the entire taxed population for a given municipality. The sampled municipalities and the number of tax observations they provided are listed below.
 
 ![Municipalities in the sample, scaled by number of observations over the entire 1850–1920 period](/images/currentsample.png)
 
